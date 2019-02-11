@@ -8,7 +8,33 @@
 
 ## 未分类
 
+###  [Linux From Scratch](http://www.linuxfromscratch.org/index.html)[EN]
 
+教你如何从源码构建出一个属于你的Linux发行版
+
+### [Vulkan Tutorial](https://vulkan-tutorial.com/)[EN]
+
+### [LearnOpenGL](https://learnopengl-cn.github.io/#_3)[CN,EN]
+
+### [WebGL理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)[CN]
+
+### [使用Express与MongoDB 搭建多人博客](http://wiki.jikexueyuan.com/project/express-mongodb-setup-blog)[CN]
+
+比较简单，但是有不少错误没有修正
+
+### [Build Your Own Lisp](http://buildyourownlisp.com/)[EN,CN]
+
+教你使用C语言制作你自己的编程语言，书中制作了简单Lisp语言（也是一门编程语言），只有差不多1000行代码。
+
+有[中文翻译](https://ksco.gitbooks.io/build-your-own-lisp/)，但不完整，好像已经废弃了。
+
+### [Python 入门指南](http://www.pythondoc.com/pythontutorial3/index.html#python)[CN]
+
+非常简单实用的Python3入门指南
+
+### [Python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html#)[CN,EN]
+
+讲述关于Python3一些常用方法和更高级的主题，你可以将这本书看作参考手册。
 
 ---
 
