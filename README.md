@@ -36,6 +36,10 @@
 
 讲述关于Python3一些常用方法和更高级的主题，你可以将这本书看作参考手册。
 
+### [OS Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)[EN]
+
+开发一个简单的操作系统。比较简单易懂，但是由于此教程最后的修改还是在2008年，教程中使用的工具不少已经不能在Win10上正常运行。而且还有不少拼写错误，不过还是很有价值的教程。
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。转载请注明出处！
